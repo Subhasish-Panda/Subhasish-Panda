@@ -22,9 +22,9 @@
 
 | Project | Tools | Description |
 |---|---|---|
-| [Sales Performance Analysis](#) | SQL, Power BI | Analyzed retail sales data to identify top products and regional trends |
-| [HR Attrition Analysis](#) | SQL, Python | Identified key factors driving employee attrition across departments |
-| [COVID Data Analysis](#) | Python, Pandas | Explored global COVID trends using rolling averages and YoY comparisons |
+| [Sales Performance Analysis]() | SQL, Power BI | Analyzed retail sales data to identify top products and regional trends |
+| [HR Attrition Analysis]() | SQL, Python | Identified key factors driving employee attrition across departments |
+| [COVID Data Analysis]() | Python, Pandas | Explored global COVID trends using rolling averages and YoY comparisons |
 
 ---
 
